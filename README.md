@@ -1,2 +1,2 @@
-# bugs
-Where qBraid bugs are submitted by qBraid users.
+# community
+Where qBraid bugs and feature requests are submitted by qBraid users.
