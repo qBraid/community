@@ -1,6 +1,9 @@
 # community
 Where qBraid bugs and feature requests are submitted by qBraid users.
 
+Clone this repository to your qBraid account:
+
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qBraid/community.git)
 
 ## What's qBraid Lab?
 > qBraid Lab is a jupyter Lab based IDE which makes all the installation procedure simple and easy. With little to no installation, qBraid Lab provides a quantum developer every package they need to begin coding including the latest versions of qiskit, cirq, braket, unitary fund and more. No need to spend hours disentangling pesky classical dependency issues! In addition, documentation for all the aforemntioned framework and tutorials onprominent quantum optimization, machine learning, and chemistry tutorials are only a click away.
