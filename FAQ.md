@@ -6,12 +6,16 @@ All resources are also available on our [docs](http://qbraid-qbraid.readthedocs-
 
 ### what is qBraid?
 
+qBraid is a platform that provides a seamless environment for coding and accessing quantum computers for research.
 
-### why use qBraid?
+### Why Quantum computing?
+
+Quantum Computers enable a paradigm shift. From bits where information is stored only in 0 or 1 , we leap forwards with qubits to a superposition of 0 and 1.
 
 
 ### what is it that makes us unique in the quantum community?
 
+A platform to support solutions using different frameowrks and real quantum computation to create applications in different fields, such as chemistry, optimization, among others. 
 
 ### what can you achieve using qBraid?
 
@@ -29,3 +33,6 @@ All resources are also available on our [docs](http://qbraid-qbraid.readthedocs-
 
 
 ### what are credits?
+
+
+### how much is a credit?
