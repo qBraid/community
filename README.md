@@ -19,7 +19,7 @@ This repository acts as a central platform for logging and discussing community-
 - For topics related to **qBraid-Algorithms**, please open an issue [here](https://github.com/qBraid/qbraid-algorithms/issues).
 - For *all other topics*, please open an issue [here](https://github.com/qBraid/community/issues).
 
-For technical questions that may be more suited for a forum, you may also find answers by posting to [QCSE](https://quantumcomputing.stackexchange.com/) or [Stack Overflow](https://stackoverflow.com/) with the [`qbraid`](https://stackoverflow.com/questions/tagged/qbraid) tag.
+For technical questions that may be more suited for a forum, you may also find some great answers by posting to [QCSE](https://quantumcomputing.stackexchange.com/) or [Stack Overflow](https://stackoverflow.com/) with the [`qbraid`](https://stackoverflow.com/questions/tagged/qbraid) tag.
 
 By participating in this community page, you are expected to uphold our [code of conduct](CODE_OF_CONDUCT.md).
 
