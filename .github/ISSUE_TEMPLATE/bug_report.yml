@@ -29,7 +29,7 @@ body:
         - Quantum Docs
         - qBraid-CLI
         - qBraid-CORE
-        - APIs
+        - Qbook
         - Other
     validations:
       required: true
